@@ -1,0 +1,16 @@
+question,option1,option2,option3,option4,answer
+在 p5.js 中哪一個函式只會在程式開始時執行一次,draw(),setup(),loop(),start(),2
+在 p5.js 中哪一個函式會持續重複執行,setup(),draw(),repeat(),run(),2
+哪一個指令可以建立 p5.js 畫布,makeCanvas(),createCanvas(),newCanvas(),canvasCreate(),2
+rect() 指令主要用來繪製哪一種圖形,圓形,三角形,矩形,直線,3
+ellipse() 指令主要用來繪製哪一種圖形,橢圓形,矩形,三角形,直線,1
+哪一個指令可以設定畫布背景顏色,fill(),stroke(),background(),colorMode(),3
+哪一個指令可以設定圖形的填滿顏色,fill(),stroke(),background(),noFill(),1
+哪一個指令可以設定線條或外框顏色,fill(),stroke(),line(),noStroke(),2
+哪一個指令可以畫出一條直線,line(),rect(),ellipse(),point(),1
+哪一個指令可以畫出單一點,pixel(),point(),dot(),vertex(),2
+哪一個指令可以停止繪製圖形的外框線,noFill(),noStroke(),strokeWeight(),erase(),2
+哪一個指令可以設定畫布的影格更新速度,frameRate(),speed(),refresh(),setFPS(),1
+哪一個變數代表目前的畫布寬度,height,canvasWidth,width,screenWidth,3
+哪一個變數代表目前的畫布高度,width,height,canvasHeight,screenHeight,2
+哪一個指令可以讓文字顯示在畫布上,showText(),write(),text(),drawText(),3
